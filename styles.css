@@ -60,6 +60,7 @@ h3 {
 .activity {
     display: flex;
     padding-bottom: 50px;
+    justify-content: space-around;
     
 }
 
